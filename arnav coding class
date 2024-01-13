@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <body>
+    <head>
+      <title> arnav coding class </title>
+      <meta charset="UTF-8">
+    </head>
+ <h1> Arnav's Coding Class </h1>
+ <p> Welcome to <b>Arnav's Coding Class</b>. In this coding class, Arnav teaches you HTML, CSS and JS. Enter the form below to join Arnav's Coding Class.<br> </p>
+    <form action="/action_page.html">
+        <label for="email">E-mail: </label>
+        <input type="email" id="email" name="email" required><br><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br><br>
+        <label for="number">Mobile Number:</label>
+        <input type="number" id="number" name="number" required><br><br>
+        <button type="submit" onclick="alert('now go to the arnav code group chat in teams')">Log In</button>
+      </form>
+      <p id="a"> </p>
+      <div class="DivForLinks">
+        <h2> Links to other associated websites </h2>
+        <p>
+          <span style="color: orange; font-family: Helvetica;">Copy these links and paste it to the address bar:</span><br>
+           <span style='color: green; font-family: Helvetica;'>Arnav Code:</span> https://www.arnavcodingclass.mystrikingly.com/<br>
+           <span style='color: green; font-family: Helvetica;'>Aquazo:</span> https://www.aquazo.mystrikingly.com/<br>
+            <span style='color: green; font-family: Helvetica; '>friendcavern:</span> https://www.friendcavern.mystrikingly.com/
+        </p>
+      </div>
+      <div>
+        <p>Disclaimer: This is the unofficial website as there is another website for coding class and this website is taken as a project by Arnav.</p>
+      </div>
+    </body>
+    <style>
+      body {
+        background-color: aqua;
+      }
+      h1 {
+        color: red;
+        font-family: sans-serif;
+      }
+      h2 {
+        color: red;
+        font-family: sans-serif;
+      }
+      h3 {
+        color: red;
+        font-family: sans-serif;
+      }
+      h4 {
+        color: red;
+        font-family: sans-serif;
+      }
+      h5 {
+        color: red;
+        font-family: sans-serif;
+      }
+      h6 {
+        color: red;
+        font-family: sans-serif;
+      }
+      p {
+        color:yellow;
+        size:24px;
+        font-family: monospace;
+      }
+      .DivForLinks {
+        border: 5px outset blueviolet;
+        background-color: blue;
+        text-align: center;
+        color: green;
+        font-family: Helvetica;
+      }
+      button {
+        border-radius: 12px;
+        background-color: lime;
+        color: orangered;
+        border-color: blueviolet;
+        font-family: monospace;
+        
+      }
+      button:hover {
+        opacity: 0.5;
+      }
+    </style>
+    <script>
+      alert("when the impostor is sus");
+      var password=document.getElementById("password").nodeValue
+      document.getElementById("a").innerHTML
+      HTML = password
+      if(pass = amogus69420)
+      return false
+    else
+    return true
+      </script>
+</html>
